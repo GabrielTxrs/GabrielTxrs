@@ -31,6 +31,13 @@ Core Technologies:
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </div>
 
+## 
+
+<div align = "center">
+  <a href="https://github.com/Gabrieltxrs">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielTxrs&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielTxrs&layout=compact&langs_count=168&theme=dark"/>
+</div>
 
 ## Contact me
 
