@@ -2,6 +2,17 @@
 
 Full Stack Software Engineer with a recent Bachelor's Degree in Computer Science with hands-on experience designing, architecting, and scaling large systems across both the public and private sectors. Beyond simply shipping working code, I prioritize code organization, security, maintainability, and clean data modeling, leveraging AI tools throughout my workflow to boost productivity and engineering quality.
 
+Over the past few years, I have built systems that handle complex business logic and high data volumes—ranging from tax and payroll platforms to sales, customer management systems, and solutions integrating Artificial Intelligence and Machine Learning. I take the time to deeply understand the underlying problem before writing a line of code, ensuring technical decisions translate into practical value for end users.
+
+I am a clear communicator driven by solving real-world problems. I value continuous knowledge sharing, self-direction, and collaborative teamwork.
+
+Core Technologies:
+• Languages & Frameworks: Java, Spring Boot, Spring Data JPA, TypeScript, JavaScript, Python, Node.js, FastAPI
+• AI & Data: Machine Learning, Pandas, Scikit-learn, Jupyter Notebooks
+• Front-end: Angular, React, HTML, CSS, Bootstrap
+• Databases: Oracle, MySQL, PostgreSQL, SQL, MongoDB
+• DevOps, Cloud & Tools: Docker, AWS, Git/GitHub, Postman, JasperReports, RESTful APIs
+
 ## Technologies 
 <div align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
