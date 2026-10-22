@@ -1,6 +1,6 @@
 ## Gabriel Teixeira Silveira
 
-A dedicated Computer Science student and Full Stack Developer, with experience in Web Development and Artificial Intelligence.
+Full Stack Software Engineer with a recent Bachelor's Degree in Computer Science with hands-on experience designing, architecting, and scaling large systems across both the public and private sectors. Beyond simply shipping working code, I prioritize code organization, security, maintainability, and clean data modeling, leveraging AI tools throughout my workflow to boost productivity and engineering quality.
 
 ## Technologies 
 <div align="center">
